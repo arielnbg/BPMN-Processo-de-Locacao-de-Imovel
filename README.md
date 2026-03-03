@@ -47,10 +47,6 @@ O processo de locação é dividido em três **raias** (pools):
 
 Contribuições são bem-vindas! Caso deseje melhorar ou adicionar novas funcionalidades ao processo de locação de imóvel, sinta-se à vontade para abrir um **pull request**.
 
-## 📜 Licença
-
-Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## 👨‍💻 Autor
 
 **Ariel Gomes**  
